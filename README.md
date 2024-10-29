@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790 AORUS ELITE AX ICE, Intel Core i9 14900K, AMD Radeon RX 5600 XT 
 
+![Overview](https://github.com/user-attachments/assets/0a1a97c2-7733-4156-bba6-782ca325296c)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sequoia (15.1)
